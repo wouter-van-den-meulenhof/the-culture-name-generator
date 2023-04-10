@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Lint project code
-        workin-directory: ./src
+        working-directory: ./src
         run: |
           flake8 . \
             --extend-ignore E501,E251 \

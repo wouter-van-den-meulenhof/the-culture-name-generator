@@ -18,7 +18,7 @@ over the course of his novels.
 
 ## Achieving further synergy
 
-For maximum testing epicness, check out some of my friend [@webtonize](https://www.github.com/username)'s projects.
+For maximum testing epicness, check out some of my friend [@webtonize](https://www.github.com/webtonize)'s projects.
 Once integrated into your pipeline / workflow you can spin up your properly
 named resources in those Azure Regions deemed to be the greenest:
 
