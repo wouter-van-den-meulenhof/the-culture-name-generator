@@ -19,5 +19,3 @@ Thank you for your contribution to the The Culture - CI Name Generator project.
 ### Description of changes made
 
 ### Brief overview of motivation and context
-
-### Overview of commit messages (optional)
