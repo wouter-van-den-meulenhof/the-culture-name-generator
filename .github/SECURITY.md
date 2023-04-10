@@ -1,11 +1,11 @@
 # The Culture - CI Name Generator   --  Security
 
 I take security very seriously. So seriously, in fact - I went out and stole GitHub's
-SECURITY.md file.
+SECURITY.md file and gave it a very serious edit!
 
 ## Reporting Security Issues with my code
 
-If you believe you have found a security vulnerability inthis repository, please drop me a dm.
+If you believe you have found a security vulnerability in this repository, please log an issue.
 
 Please include as much of the information listed below as you can to help me better understand and resolve the issue:
 

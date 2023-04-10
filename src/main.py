@@ -17,15 +17,11 @@ from classes import asset_randomizer
 # Process script input
 arg_parser = argparse.ArgumentParser()
 arg_parser.add_argument(
-    "-c",
-    "--count",
-    type = int,
+    "-c", "--count", type = int,
     help = "Amount of names to generate, using this script."
 )
 arg_parser.add_argument(
-    "-f",
-    "--format",
-    type = str,
+    "-f", "--format", type = str,
     help = "Desired format for return value: semicolon_delimited_string, comma_delimited_string or json."
 )
 arguments = arg_parser.parse_args()

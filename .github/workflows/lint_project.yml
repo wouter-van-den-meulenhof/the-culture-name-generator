@@ -1,0 +1,28 @@
+name: Test & lint Python program
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  CI:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+
+      - name: Lint project code
+        workin-directory: ./src
+        run: |
+          flake8 . \
+            --extend-ignore E501,E251 \
+            --show-source \
+            --statistics
+
+
+
+
+
+
+
