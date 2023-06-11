@@ -15,13 +15,3 @@ over the course of his novels.
         --count 10 \
         --format json
 ```
-
-## Achieving further synergy
-
-For maximum testing epicness, check out some of my friend [@webtonize](https://www.github.com/webtonize)'s projects.
-Once integrated into your pipeline / workflow you can spin up your properly
-named resources in those Azure Regions deemed to be the greenest:
-
-* [PSWattTime](https://github.com/cloudyspells/PSWattTime/)
-* [PSCO2Signal](https://github.com/cloudyspells/PSCO2Signal/)
-* [PSElectricityMaps](https://github.com/cloudyspells/PSElectricityMaps/)
